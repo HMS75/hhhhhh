@@ -1,0 +1,47 @@
+html { 
+    background-color: #393E46;
+}
+
+.container {
+    width: 98%;
+    margin: auto;
+    text-align: center;
+  }
+
+.heading {
+    color: #4ECCA3;
+    font-family: 'lobster', cursive;
+    font-size: 65px;
+    text-align: center;
+    text-shadow: 5px 0 #232931;
+}
+
+.players{
+    text-align: center;
+    color:#4ECCA3;
+    font-size: 23px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#p1 {
+    display: inline-block;
+    text-align: left;
+}
+
+#p2 {
+    display: inline-block;
+    
+}
+
+.dice {
+    text-align: center;
+    display: inline;
+}
+
+footer {
+    margin-top: 2%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
